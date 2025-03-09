@@ -6,7 +6,6 @@ The Simple Flight Route Tracker is a Java application that allows users to manag
 ## Features
 
 Add airports dynamically
-
 Define flight routes with distances
 
 Find the shortest route between two airports
